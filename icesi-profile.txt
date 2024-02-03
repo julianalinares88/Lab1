@@ -1,0 +1,3 @@
+a. NOMBRE: Danikza Juliana
+b. APELLIDO: Linares Ojeda
+c. FECHA_DE_NACIMIENTO: Su fecha de nacimiento en formato 2006-01-17.
